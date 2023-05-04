@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">exercicios</string>
+    <string name="ola" translatable="false">Olá</string>
+    <string name="primeira_parte">First things first\n
+        I\'ma say all the words inside my head\n
+        I\'m fired up and tired of the way\n
+        That things have been, oh-ooh\n
+        The way that things have been, oh-ooh
+    </string>
+    <string name="segunda_parte">Second things second\n
+        Don\'t you tell me what\n you think that I could be\n
+        I\'m the one at the sail,\n I\'m the master of my sea, oh-ooh\n
+        The master of my sea, oh-ooh
+    </string>
+</resources>
